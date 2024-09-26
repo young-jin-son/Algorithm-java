@@ -1,4 +1,4 @@
-import java.util.*;
+package Programmers.Lv_1;
 
 public class 문자열_다루기_기본 {
     static class Solution {
